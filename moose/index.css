@@ -1,6 +1,15 @@
+*{
+  background-color: lightblue;
+}
+.button {
+  background-color: cadetblue;
+  color: white
+}
+
 img {
   border: 1px solid #ddd;
   border-radius: 4px;
   padding: 5px;
   width: 200px;
 }
+

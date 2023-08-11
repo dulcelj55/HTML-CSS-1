@@ -1,15 +1,53 @@
-*{
+* {
   background-color: lightblue;
 }
-.button {
-  background-color: cadetblue;
-  color: white
+
+h1 {
+  font-size: 40px;
 }
+
+.site-navbar {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+  color: white;
+  font-size: 15px;
+  background-color: rgb(112, 189, 112);
+  height: 30px;
+
+
+
+}
+
+.navbar {
+  background-color: rgb(112, 189, 112);
+
+}
+
+p {
+  font-size: 25px;
+}
+
+
+.chunk {
+  display: flex;
+
+}
+
+h3 {
+  font-size: 30px;
+}
+
+.list1 {
+  font-size: 20px;
+
+}
+
 
 img {
   border: 1px solid #ddd;
   border-radius: 4px;
   padding: 5px;
-  width: 200px;
+  width: 150px;
 }
-
